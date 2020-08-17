@@ -1,6 +1,6 @@
 <?php
 
-/*** Child Theme Function  ***/
+/*** New Child Theme Function  ***/
 
 function qode_pitch_child_theme_enqueue_scripts() {
 	wp_register_style( 'childstyle', get_stylesheet_directory_uri() . '/style.css'  );
