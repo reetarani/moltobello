@@ -1,9 +1,6 @@
 <?php
-
 //$qode_startit_toolbar = true;
-
 include_once get_template_directory().'/theme-includes.php';
-
 if(!function_exists('qode_startit_styles')) {
     /**
      * Function that includes theme's core styles
